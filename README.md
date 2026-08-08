@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sololeveling28/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/sololeveling28/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sololeveling28/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/sololeveling28/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
