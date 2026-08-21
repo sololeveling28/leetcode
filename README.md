@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sololeveling28/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/sololeveling28/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sololeveling28/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sololeveling28/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sololeveling28/leetcode/tree/master/0412-fizz-buzz) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sololeveling28/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
