@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sololeveling28/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/sololeveling28/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/sololeveling28/leetcode/tree/master/0412-fizz-buzz) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sololeveling28/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sololeveling28/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sololeveling28/leetcode/tree/master/0242-valid-anagram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sololeveling28/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sololeveling28/leetcode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sololeveling28/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sololeveling28/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sololeveling28/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
