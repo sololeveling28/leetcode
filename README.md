@@ -78,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sololeveling28/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sololeveling28/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sololeveling28/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
