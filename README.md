@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sololeveling28/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sololeveling28/leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sololeveling28/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sololeveling28/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sololeveling28/leetcode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sololeveling28/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sololeveling28/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
