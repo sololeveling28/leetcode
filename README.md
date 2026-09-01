@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sololeveling28/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sololeveling28/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sololeveling28/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/sololeveling28/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sololeveling28/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sololeveling28/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sololeveling28/leetcode/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/sololeveling28/leetcode/tree/master/0242-valid-anagram) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sololeveling28/leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sololeveling28/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sololeveling28/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
@@ -119,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sololeveling28/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
