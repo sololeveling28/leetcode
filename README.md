@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sololeveling28/leetcode/tree/master/0242-valid-anagram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sololeveling28/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sololeveling28/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3945-digit-frequency-score](https://github.com/sololeveling28/leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sololeveling28/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3945-digit-frequency-score](https://github.com/sololeveling28/leetcode/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
