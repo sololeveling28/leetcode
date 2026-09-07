@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sololeveling28/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/sololeveling28/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sololeveling28/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sololeveling28/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sololeveling28/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/sololeveling28/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sololeveling28/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sololeveling28/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sololeveling28/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sololeveling28/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sololeveling28/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sololeveling28/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sololeveling28/leetcode/tree/master/1539-kth-missing-positive-number) |
