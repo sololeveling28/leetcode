@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sololeveling28/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/sololeveling28/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sololeveling28/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sololeveling28/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sololeveling28/leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sololeveling28/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sololeveling28/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3870-count-commas-in-range](https://github.com/sololeveling28/leetcode/tree/master/3870-count-commas-in-range) |
