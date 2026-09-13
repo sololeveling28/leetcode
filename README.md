@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sololeveling28/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/sololeveling28/leetcode/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/sololeveling28/leetcode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sololeveling28/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sololeveling28/leetcode/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/sololeveling28/leetcode/tree/master/0242-valid-anagram) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3024-type-of-triangle](https://github.com/sololeveling28/leetcode/tree/master/3024-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sololeveling28/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3024-type-of-triangle](https://github.com/sololeveling28/leetcode/tree/master/3024-type-of-triangle) |
 | [3870-count-commas-in-range](https://github.com/sololeveling28/leetcode/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/sololeveling28/leetcode/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sololeveling28/leetcode/tree/master/0258-add-digits) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/sololeveling28/leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
