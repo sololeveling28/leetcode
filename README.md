@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sololeveling28/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sololeveling28/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sololeveling28/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0137-single-number-ii](https://github.com/sololeveling28/leetcode/tree/master/0137-single-number-ii) |
 | [0904-fruit-into-baskets](https://github.com/sololeveling28/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1539-kth-missing-positive-number](https://github.com/sololeveling28/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/sololeveling28/leetcode/tree/master/0137-single-number-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sololeveling28/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
