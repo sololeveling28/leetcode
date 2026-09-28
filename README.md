@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sololeveling28/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sololeveling28/leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/sololeveling28/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sololeveling28/leetcode/tree/master/0412-fizz-buzz) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sololeveling28/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/sololeveling28/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sololeveling28/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sololeveling28/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sololeveling28/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sololeveling28/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sololeveling28/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
