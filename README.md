@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sololeveling28/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1137-n-th-tribonacci-number](https://github.com/sololeveling28/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sololeveling28/leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/sololeveling28/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sololeveling28/leetcode/tree/master/0412-fizz-buzz) |
+| [1137-n-th-tribonacci-number](https://github.com/sololeveling28/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sololeveling28/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/sololeveling28/leetcode/tree/master/1095-find-in-mountain-array) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/sololeveling28/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
