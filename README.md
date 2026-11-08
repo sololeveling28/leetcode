@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sololeveling28/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sololeveling28/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2591-distribute-money-to-maximum-children](https://github.com/sololeveling28/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3024-type-of-triangle](https://github.com/sololeveling28/leetcode/tree/master/3024-type-of-triangle) |
 | [3870-count-commas-in-range](https://github.com/sololeveling28/leetcode/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/sololeveling28/leetcode/tree/master/3945-digit-frequency-score) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sololeveling28/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2591-distribute-money-to-maximum-children](https://github.com/sololeveling28/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 ## Game Theory
 |  |
 | ------- |
