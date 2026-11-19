@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/sololeveling28/leetcode/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/sololeveling28/leetcode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sololeveling28/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sololeveling28/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/sololeveling28/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sololeveling28/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sololeveling28/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/sololeveling28/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/sololeveling28/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
